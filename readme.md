@@ -4,7 +4,7 @@ The OpenStack Kuryr project enables native Neutron-based networking in Kubernete
 ## Installation
 - Install OpenStack Nodes
 - Install Kubernetes Nodes
-- [Setup Prerequisites](/installation/prerequisites.md)
-- [Pre-kuryr](/installation/pre-kuryr.md)
-- [kuryr Master nodes](/installation/kuryr.md)
-- [kuryr Worker nodes](/installation/worker-kuryr.md)
+- [Setup Prerequisites](/Installation/Prerequisites.md)
+- [Pre-kuryr](/Installation/pre-kuryr.md)
+- [kuryr Master nodes](/Installation/kuryr.md)
+- [kuryr Worker nodes](/Installation/worker-kuryr.md)

@@ -1,4 +1,4 @@
-# Prequisites
+# Prerequisites
 I used 7 nodes for OpenStack and Kubernetes cluster, and use 2 network interface each node.
 
 #### OpenStack Nodes
