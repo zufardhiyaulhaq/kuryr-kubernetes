@@ -8,3 +8,9 @@ The OpenStack Kuryr project enables native Neutron-based networking in Kubernete
 - [Pre-kuryr](/Installation/pre-kuryr.md)
 - [kuryr Master nodes](/Installation/kuryr.md)
 - [kuryr Worker nodes](/Installation/worker-kuryr.md)
+
+#### Demo Connectivity Test
+[![kuryr-kubernetes demo](http://img.youtube.com/vi/0HLXOIE8E4A/0.jpg)](http://www.youtube.com/watch?v=0HLXOIE8E4A "kuryr-kubernetes demo")
+
+#### Demo Creating Deployment and Service
+[![kuryr-kubernetes demo](http://img.youtube.com/vi/95DQJCNFNbs/0.jpg)](http://www.youtube.com/watch?v=95DQJCNFNbs "kuryr-kubernetes demo")
